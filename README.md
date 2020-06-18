@@ -1,2 +1,3 @@
-# todo.basic.javascript
-A basic todo list written using Javascript.
+# A basic todo list written with Javascript.
+
+* I have leanerd how to use DOM selectors and listening for events.
